@@ -69,6 +69,7 @@
     <None Include="Features\Feature1\Feature1.feature">
       <FeatureId>{55d42d42-18ce-4c8c-845f-f9ae25b6a743}</FeatureId>
     </None>
+    <None Include="Infopath form\AnimalRequest_V2.4.xsn" />
     <None Include="key.snk" />
     <None Include="Package\Package.package">
       <PackageId>{bc3f89dd-1a92-4ae7-bd45-b0ee93d4a5d3}</PackageId>
