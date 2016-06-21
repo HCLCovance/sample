@@ -71,6 +71,9 @@
     </None>
     <None Include="Infopath form\AnimalRequest_V2.4.xsn" />
     <None Include="key.snk" />
+    <None Include="Module1\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ab3cbae0-87e5-4ae9-b121-c091a086fbf5}</SharePointProjectItemId>
+    </None>
     <None Include="Package\Package.package">
       <PackageId>{bc3f89dd-1a92-4ae7-bd45-b0ee93d4a5d3}</PackageId>
     </None>
@@ -87,6 +90,8 @@
     <Content Include="Features\Feature1\Feature1.Template.xml">
       <DependentUpon>Feature1.feature</DependentUpon>
     </Content>
+    <Content Include="Module1\Elements.xml" />
+    <Content Include="Module1\Sample.txt" />
     <Content Include="VisualWebPart1\Elements.xml" />
     <Content Include="VisualWebPart1\VisualWebPart1.ascx">
       <Generator>SharePointWebPartCodeGenerator</Generator>
