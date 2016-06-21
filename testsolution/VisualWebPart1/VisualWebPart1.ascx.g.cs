@@ -46,7 +46,7 @@ namespace testsolution.VisualWebPart1 {
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Never)]
         private void @__BuildControlTree(global::testsolution.VisualWebPart1.VisualWebPart1 @__ctrl) {
             System.Web.UI.IParserAccessor @__parser = ((System.Web.UI.IParserAccessor)(@__ctrl));
-            @__parser.AddParsedSubObject(new System.Web.UI.LiteralControl("\r\nsample webpart here"));
+            @__parser.AddParsedSubObject(new System.Web.UI.LiteralControl("\r\nsample webpart here testing"));
         }
         
         private void InitializeControl() {
